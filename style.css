@@ -78,3 +78,54 @@ body {
     font-weight: 700;
     margin: 10px;
 }
+
+.last {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+}
+
+.half img {
+    width: 60%;
+    padding-left: 90px;
+}
+
+.pad {
+    padding-right: 100px;
+
+}
+
+.pad2 {
+    padding-left: 100px;
+}
+
+.pad {
+    padding-right: 100px;
+}
+
+.email {
+    background-color: brown;
+}
+
+.mail {
+    display: flex;
+}
+
+.ses {
+    text-align: center;
+    font-weight: 500;
+    color: aliceblue;
+}
+
+.back {
+    background-color: darkblue;
+}
+
+.hmbl {
+    color: crimson;
+    text-align: center;
+    font-weight: 500;
+
+}
